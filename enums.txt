@@ -1,0 +1,2 @@
+Enum (short for “enumeration”) is a feature in TypeScript that allows you to define a set of named constants,
+a group of related values that make your code more readable and maintainable.
