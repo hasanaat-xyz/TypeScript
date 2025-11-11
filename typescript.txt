@@ -5,3 +5,15 @@ In short:
 TypeScript = JavaScript + Type Safety + Better Tools
 
 You write code in .ts files → TypeScript then compiles it into normal JavaScript (.js) so browsers can run it.
+
+Typescript vs JavaScript
+
+| Feature                    | JavaScript (JS)                                    | TypeScript (TS)                               |
+| -------------------------- | -------------------------------------------------- | ------------------------------------------------- |
+| **Type system**            | Dynamically typed (no type checking until runtime) | Statically typed (checks types while coding)      |
+| **File extension**         | `.js`                                              | `.ts`                                             |
+| **Error detection**        | Errors found at **runtime**                        | Errors found at **compile time** (before running) |
+| **Tooling / IntelliSense** | Limited                                            | Excellent autocompletion & refactoring            |
+| **Learning curve**         | Easier (no setup)                                  | Slightly higher (needs compiler, types)           |
+| **Code scalability**       | Harder to maintain for big projects                | Easier to maintain for large codebases            |
+| **Execution**              | Runs directly in browsers or Node.js               | Needs to be compiled into JS first                |
