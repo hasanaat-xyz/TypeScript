@@ -1,8 +1,10 @@
-function add(a: number, b: number): number {
-  return a + b;
+function add1(a: number | string, b: number | string): number {
+  return Number(a) + Number(b);
 }
 
-console.log(add("2", 3)); // ❌ Error at compile time: Argument of type 'string' is not assignable to parameter of type 'number'
+console.log(add("2", 3)); // ✅ Output: 5
+console.log(add("4", "6")); // ✅ Output: 10
+
 //Why Developers Prefer TypeScript
 //Fewer bugs
 //Predictable behavior
