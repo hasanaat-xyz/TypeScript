@@ -1,0 +1,7 @@
+TypeScript (TS) is a programming language built by Microsoft.
+It’s a superset of JavaScript (JS), meaning everything in JavaScript also works in TypeScript, plus some extra powerful features.
+
+In short:
+TypeScript = JavaScript + Type Safety + Better Tools
+
+You write code in .ts files → TypeScript then compiles it into normal JavaScript (.js) so browsers can run it.
