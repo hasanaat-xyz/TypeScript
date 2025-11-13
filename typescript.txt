@@ -7,6 +7,7 @@ TypeScript = JavaScript + Type Safety + Better Tools
 You write code in .ts files → TypeScript then compiles it into normal JavaScript (.js) so browsers can run it.
 
 Typescript vs JavaScript
+
 | Feature                    | JavaScript (JS)                                    | TypeScript (TS)                               |
 | -------------------------- | -------------------------------------------------- | ------------------------------------------------- |
 | **Type system**            | Dynamically typed (no type checking until runtime) | Statically typed (checks types while coding)      |
