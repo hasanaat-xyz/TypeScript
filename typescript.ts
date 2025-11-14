@@ -7,6 +7,7 @@ console.log(add1("4", "6")); // ✅ Output: 10
 
 //Why Developers Prefer TypeScript
 //Fewer bugs
+
 //Predictable behavior
 //Easier to collaborate in teams
 //Great for large, scalable applications (React, Angular, etc.)
