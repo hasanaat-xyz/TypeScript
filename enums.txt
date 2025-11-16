@@ -2,6 +2,5 @@ Enum (short for “enumeration”) is a feature in TypeScript that allows you to
 a group of related values that make your code more readable and maintainable.
 
 Types of enums:
-
 1.Numeric Enums (Default)
 If you don’t assign values, TypeScript automatically starts numbering from 0.
